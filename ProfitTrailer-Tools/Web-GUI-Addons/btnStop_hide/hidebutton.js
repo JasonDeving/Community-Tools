@@ -1,0 +1,1 @@
+$("#btnStop").hide();
